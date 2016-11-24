@@ -12,7 +12,7 @@ use ZPHP\Protocol\Response;
 use ZPHP\View\Base,
     ZPHP\Core\Config;
 
-class String extends Base
+class Zstring extends Base
 {
     public function display()
     {
